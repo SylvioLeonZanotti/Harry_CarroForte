@@ -1,4 +1,4 @@
-![adquira](https://github.com/SylvioLeonZanotti/Harry_CarroForte/assets/123652053/fad2bb93-5401-4886-8cf2-67445d03ebce)
+![adquira-ja](https://github.com/SylvioLeonZanotti/Harry_CarroForte/assets/123652053/c3ecb0e3-fee5-42d6-b560-83d71ceb4d51)
 
 Para aquirir a licença deste script basta entrar em contato através do discord https://discord.gg/7RBy9KYRH9.
 
