@@ -2,4 +2,4 @@
 
 Para aquirir a licença deste script basta entrar em contato através do discord https://discord.gg/7RBy9KYRH9.
 
-Nossos scripts possuem proteção de IP e nosso client e server tem o código sãop obfuscados como forma de proteção de nosso código fonte, evitando assim plágios e distribuições não autorizadas.
+Nossos scripts possuem proteção de IP e nosso client e server tem o código são ofuscados como forma de proteção de nosso código fonte, evitando assim plágios e distribuições não autorizadas.
